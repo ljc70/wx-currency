@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/list/main",
+    "pages/chart/main",
+    "pages/logs/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f71b35",
+    "navigationBarTitleText": "Currency Translation",
+    "navigationBarTextStyle": "white"
+  }
+}

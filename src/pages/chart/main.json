@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Currency Tendency",
+  "usingComponents": {
+    "i-icon": "../../../static/iview/icon/index"
+  }
+}

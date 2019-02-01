@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "i-cell": "../../../static/iview/cell/index",
+    "i-icon": "../../../static/iview/icon/index",
+    "i-swipeout": "../../../static/iview/swipeout/index",
+    "i-input": "../../../static/iview/input/index",
+    "i-modal": "../../../static/iview/modal/index"
+  }
+}
